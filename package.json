@@ -1,0 +1,16 @@
+{
+  "name"         : "app",
+  "version"      : "0.0.0",
+  "description"  : "Simple hello-world application.",
+  "main"         : "app.js",
+  "version"      : "v4.2.4",
+  "author"       : "Scotch",
+  "dependencies" : {
+    "express"         : "~2.5.8"
+    
+  }
+}
+
+    Status API Training Shop Blog About Pricing 
+
+    © 2016 GitHub, Inc. Terms Privacy Security Contact Help 
