@@ -4,7 +4,7 @@
   "description"  : "Simple hello-world application.",
   "main"         : "app.js",
   "version"      : "v4.2.4",
-  "author"       : "Scotch",
+  "author"       : "gunt",
   "dependencies" : {
     "express"         : "~2.5.8"
     
